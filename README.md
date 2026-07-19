@@ -45,7 +45,7 @@ My work combines medical-equipment reliability, patient safety, quality systems,
 | [QRS Detection Algorithm Comparison](https://github.com/Aboubakr-Ibrahim/qrs-detection-algorithm-comparison) | Pan-Tompkins-style and wavelet QRS detection, annotation matching, evaluation, and visualization | Framework complete; benchmark execution pending |
 | [ECG & HRV Analysis Toolkit](https://github.com/Aboubakr-Ibrahim/ecg-hrv-analysis-toolkit) | ECG preprocessing, R-peak detection, time/frequency-domain HRV, Poincare analysis, and batch reporting | Static review complete; MATLAB tests pending |
 | [CNN-STFT Audio Denoising](https://github.com/Aboubakr-Ibrahim/cnn-stft-audio-denoising) | Leakage-aware experimental design, STFT/ISTFT, CNN mask estimation, baselines, and signal-quality metrics | V2 static review complete; MATLAB execution and output review pending |
-| [ICU Mortality Modeling Prototype](https://github.com/Aboubakr-Ibrahim/icu-mortality-modeling-prototype) | Reserved development space for a repaired healthcare-modeling prototype | Under development |
+| [ICU Mortality Modeling Prototype](https://github.com/Aboubakr-Ibrahim/icu-mortality-modeling-prototype) | 24-hour prediction design, patient-level separation, training-only preprocessing, interpretable baselines, and calibration | V2 static review complete; audited cohort execution pending |
 
 > These repositories are educational and research portfolio projects. They are not medical devices and must not be used for diagnosis, monitoring, treatment, alarms, or patient-care decisions.
 
