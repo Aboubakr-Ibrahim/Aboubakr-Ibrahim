@@ -49,6 +49,10 @@ My work combines medical-equipment reliability, patient safety, quality systems,
 
 > These repositories are educational and research portfolio projects. They are not medical devices and must not be used for diagnosis, monitoring, treatment, alarms, or patient-care decisions.
 
+## Future research
+
+I maintain a [staged research roadmap](RESEARCH_ROADMAP.md) for strengthening the existing projects and connecting biomedical data, clinical engineering, and medical-device quality. New work is published only after its evidence, privacy, methodology, and verification plan are ready.
+
 ## Documented engineering experience
 
 ### Cairo University Hospitals, Egypt
